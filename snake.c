@@ -1,13 +1,5 @@
 
 
- /* ******************SNAKE GAME ***********************
-         BY - TANISHA SINGHAL(2K20/A5/14)
-              AKKSHITA SWAIN (2K20/A5/23) 
- */
-
-
-
-
 
 #include<stdio.h>
 #include<conio.h>
